@@ -29,4 +29,4 @@
 
 ### リンク
 
-[Microsoft AZURE:避難所情報収集システム](http://cns.japanwest.cloudapp.azure.com/LoginASystem.php)
+[Microsoft AZURE:避難所情報収集システム・ログイン画面](http://cns.japanwest.cloudapp.azure.com/LoginASystem.php)
