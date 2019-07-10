@@ -20,6 +20,12 @@
 >
 ※通常のwifi回線を通して、スマートフォンから情報を登録することができます。
 
+![情報入力画面1](https://github.com/dronebird/eisf/blob/master/image101.gif "アーティス名刺工房")
+![情報入力画面2](https://github.com/dronebird/eisf/blob/master/image102.gif "アーティス名刺工房")
+![情報表示モード選択画面](https://github.com/dronebird/eisf/blob/master/image103.gif "アーティス名刺工房")
+![物資要請内容表示画面](https://github.com/dronebird/eisf/blob/master/image104.gif "アーティス名刺工房")
+
+
 
 ### リンク
 
